@@ -1,0 +1,3 @@
+C:/D/2nd omar/omar/DS/ASS2/A2_P9_20200347/cmake-build-debug/CMakeFiles/untitled1.dir
+C:/D/2nd omar/omar/DS/ASS2/A2_P9_20200347/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/D/2nd omar/omar/DS/ASS2/A2_P9_20200347/cmake-build-debug/CMakeFiles/rebuild_cache.dir
